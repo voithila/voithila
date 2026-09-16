@@ -22,10 +22,10 @@
 <a>
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&langs_count=4&theme=shadow_red"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&hide_title=true&langs_count=4&theme=shadow_red"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="150" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&langs_count=4&theme=shadow_red" />
+    <img height="150" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&hide_title=true&langs_count=4&theme=shadow_red" />
   </picture>
 </a>
 <a>
