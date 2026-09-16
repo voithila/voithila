@@ -1,4 +1,12 @@
 <div align="center">
+
+  <picture>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000&section=header"
+/>
+</picture>
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&duration=4996&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=erike+voithila)](https://git.io/typing-svg)  
 
@@ -25,3 +33,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=4996&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a>  
 </div>
+
+
+<!--
+https://capsule-render.vercel.app/
+https://github-stats-extended.vercel.app/frontend/
+https://github.com/lowlighter/metrics
+https://readme-typing-svg.demolab.com/demo/
+https://github.com/tandpfun/skill-icons
+https://github.com/Platane/snk
+-->
