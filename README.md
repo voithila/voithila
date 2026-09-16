@@ -13,7 +13,6 @@
     />
   </picture>
 
-
 `七 転 び 八 起 き`  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=10000&color=C80606FF&background=FF0A0000&center=true&vCenter=true&multiline=true&width=435&height=35&lines=Erike+Voithila" alt="Typing SVG" /></a>
@@ -49,6 +48,12 @@ learning:
 </a>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=1&pause=1000&color=B80606&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a>  
+    <br><picture>
+    <img
+      width="900px"
+      src="https://i.imgur.com/wb6c3ji.jpeg"
+    />
+  </picture>
 </div>
 
 <!--
