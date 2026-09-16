@@ -8,7 +8,7 @@
 
   <picture>
     <img
-      height="100px"
+      height="70px"
       src="https://i.imgur.com/vnNmZYH.gif"
     />
   </picture>
