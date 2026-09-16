@@ -49,7 +49,7 @@ learning:
 <table>
   <tr>
     <td rowspan="2" width="33%">
-      <img src="assets/formation.svg" alt="Formação" width="600px">
+      <img src="assets/formation.svg" alt="Formação" width="200px">
     </td>
     <td width="67%">
       <h3>Técnico em Informática</h3>
