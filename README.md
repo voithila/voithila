@@ -58,44 +58,24 @@ learning:
 
 
 
-<div style="
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 10px;
-  width: 900px;
-">
-  <img
-    src="assets/formation.svg"
-    alt="Formação"
-    style="
-      grid-column: 1 / 2;
-      grid-row: 1 / 3;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    "
-  >
+<table>
+  <tr>
+    <td rowspan="2" width="33%">
+      <img src="assets/formation.svg" alt="Formação" width="600px">
+    </td>
+    <td width="67%">
+      <h3>Técnico em Informática</h3>
+      <p>Formado pelo IFPB</p>
+    </td>
+  </tr>
 
-  <!-- Div 1: 2 colunas × 1 linha -->
-  <div style="
-    padding: 10px;
-    grid-column: 2 / 4;
-    grid-row: 1 / 2;
-  ">
-    <h3>Técnico em Informática</h3>
-    <p>Formado pelo IFPB</p>
-  </div>
-
-  <!-- Div 2: 2 colunas × 1 linha -->
-  <div style="
-    padding: 10px;
-    grid-column: 2 / 4;
-    grid-row: 2 / 3;
-  ">
-    <h3>Bacharel em Sistemas de Informação</h3>
-    <p>Em formação pela UFRPE/UAST</p>
-  </div>
+  <tr>
+    <td width="67%">
+      <h3>Bacharel em Sistemas de Informação</h3>
+      <p>UFRPE-UAST</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 <!--
