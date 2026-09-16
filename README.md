@@ -2,17 +2,18 @@
   <picture>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=e06c74&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=840404"
 />
 </picture>
 
 `七転び八起き`  
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=10000&color=B80606&background=FF0A0000&center=true&vCenter=true&multiline=true&width=435&height=35&lines=ooi%2C+meu+nome+%C3%A9+ERIKE+VOITHILA" alt="Typing SVG" /></a>
+<br> 
+<img
+  src="https://capsule-render.vercel.app/api?type=blur&height=260&color=840404"
+/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=4996&pause=1000&color=E06C74&center=true&vCenter=true&width=435&lines=oi%2C+meu+nome+%C3%A9+Erike+Voithila" alt="Typing SVG" /></a>
-
-<br>  
-  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 
@@ -37,8 +38,9 @@
   </picture>
 </a>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=2&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=1&pause=1000&color=B80606&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a>  
 </div>
+
 <!--
 https://capsule-render.vercel.app/
 https://github-stats-extended.vercel.app/frontend/
