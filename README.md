@@ -60,7 +60,7 @@ learning:
   <tr>
     <td width="67%">
       <h3>Bacharel em Sistemas de Informação</h3>
-      <p>UFRPE-UAST</p>
+      <p>Em formação na UFRPE-UAST</p>
     </td>
   </tr>
 </table><br>
