@@ -44,20 +44,8 @@ learning:
 </picture><br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=1&pause=1000&color=B80606&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a><br>
-<picture>
-  <img
-    width="900px"
-    src="https://i.imgur.com/wb6c3ji.jpeg"
-  />
-</picture>
 
 </div>
-
-
-
-
-
-
 <table>
   <tr>
     <td rowspan="2" width="33%">
@@ -75,8 +63,13 @@ learning:
       <p>UFRPE-UAST</p>
     </td>
   </tr>
-</table>
-
+</table><br>
+<picture>
+  <img
+    width="900px"
+    src="https://i.imgur.com/wb6c3ji.jpeg"
+  />
+</picture>
 </div>
 <!--
 https://capsule-render.vercel.app/
@@ -86,9 +79,6 @@ https://readme-typing-svg.demolab.com/demo/
 https://github.com/tandpfun/skill-icons
 https://shields.io/
 https://github.com/Platane/snk
-
-
-
   <picture>
   <source
     srcset="https://github-stats-extended.vercel.app/api?username=voithila&rank_icon=github&hide_title=true&include_all_commits=true&theme=onedark"
@@ -96,4 +86,5 @@ https://github.com/Platane/snk
   />
   <img src="" />
 </picture>
+
 -->
