@@ -6,9 +6,9 @@
 />
 </picture>
 
-`七転び八起き`  
+`七 転 び 八 起 き`  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=10000&color=C80606FF&background=FF0A0000&center=true&vCenter=true&multiline=true&width=435&height=35&lines=ooi%2C+meu+nome+%C3%A9+ERIKE+VOITHILA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=10000&color=C80606FF&background=FF0A0000&center=true&vCenter=true&multiline=true&width=435&height=35&lines=Erike+Voithila" alt="Typing SVG" /></a>
 <br> 
 <img
   src="https://capsule-render.vercel.app/api?type=blur&height=260&color=C80606FF"
