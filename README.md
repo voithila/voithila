@@ -6,6 +6,14 @@
 />
 </picture>
 
+  <picture>
+    <img
+      height="100px"
+      src="https://i.imgur.com/vnNmZYH.gif"
+    />
+  </picture>
+
+
 `七 転 び 八 起 き`  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=10000&color=C80606FF&background=FF0A0000&center=true&vCenter=true&multiline=true&width=435&height=35&lines=Erike+Voithila" alt="Typing SVG" /></a>
