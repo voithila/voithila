@@ -3,7 +3,7 @@
   <picture>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=e06c74&section=header"
 />
 </picture>
 
@@ -41,5 +41,6 @@ https://github-stats-extended.vercel.app/frontend/
 https://github.com/lowlighter/metrics
 https://readme-typing-svg.demolab.com/demo/
 https://github.com/tandpfun/skill-icons
+https://shields.io/
 https://github.com/Platane/snk
 -->
