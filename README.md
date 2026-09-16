@@ -24,7 +24,7 @@
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&langs_count=4&theme=shadow_red"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&langs_count=4&theme=shadow_red" />
+    <img height="150" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&langs_count=4&theme=shadow_red" />
   </picture>
 </a>
 <a>
@@ -33,9 +33,10 @@
       srcset="https://github-stats-extended.vercel.app/api?username=voithila&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=voithila&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red" />
+    <img height="150" align="center" src="https://github-stats-extended.vercel.app/api?username=voithila&rank_icon=github&hide_title=true&include_all_commits=true&theme=shadow_red" />
   </picture>
 </a>
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=2&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a>  
 </div>
 <!--
