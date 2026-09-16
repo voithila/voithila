@@ -1,2 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alien+Block&duration=4996&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Voithila" alt="Typing SVG" /></a>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&duration=4996&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=erike+voithila)](https://git.io/typing-svg)  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=voithila&rank_icon=github&hide_title=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=voithila&rank_icon=github&hide_title=true&include_all_commits=true&theme=onedark)  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&hide_title=true&langs_count=4&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=voithila&layout=compact&hide_title=true&langs_count=4&theme=onedark)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
