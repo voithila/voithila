@@ -14,7 +14,9 @@
   src="https://capsule-render.vercel.app/api?type=blur&height=260&color=C80606FF"
 />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+learning:
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,ts,html,css,python)](https://skillicons.dev)
 
 
 
