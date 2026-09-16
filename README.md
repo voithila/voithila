@@ -8,7 +8,7 @@
 
 <picture>
   <img
-    height="70px"
+    height="60px"
     src="https://i.imgur.com/vnNmZYH.gif"
   />
 </picture>
@@ -17,14 +17,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=5000&pause=10000&color=C80606FF&background=FF0A0000&center=true&vCenter=true&multiline=true&width=435&height=35&lines=Erike+Voithila" alt="Typing SVG" /></a><br> 
 
-<img
-  src="https://capsule-render.vercel.app/api?type=blur&height=260&color=C80606FF"
+<img height="100px"
+  src="https://capsule-render.vercel.app/api?type=blur&height=500&color=C80606FF"
 />
 
-learning:
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,ts,html,css,python)](https://skillicons.dev)
-
+<span height="10px">learning:<span/><br>
+<img
+  src="https://skillicons.dev/icons?i=mysql,ts,html,css,python"
+/>
 
 <picture>
   <source
